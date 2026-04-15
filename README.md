@@ -29,7 +29,8 @@
 - MySQL
 - Python (Basics)
 - Bash
-- 
+
+-project 
 - ### 🌾 Agriculture Service Center (Agricliher)
 - Built a web-based agriculture service platform  
 - Developed using:
